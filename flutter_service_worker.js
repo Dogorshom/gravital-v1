@@ -4,16 +4,16 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "de082a0f7de72bf4d2ad9f495730e856",
-"index.html": "71b072ae2595ca4cb6536a7588a8a977",
-"/": "71b072ae2595ca4cb6536a7588a8a977",
-"main.dart.js": "79ba50ea6165a9aca56d8349037110b4",
+"index.html": "c500854ddc11d42dfc054f19693f56c0",
+"/": "c500854ddc11d42dfc054f19693f56c0",
+"main.dart.js": "15c54a7ba1aeafc40debce46990dd4d5",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "43ff6da7f1d3fc2e72cc49c85ed9a2d8",
-"assets/AssetManifest.json": "4492dd5e956111c89711b631eeef7c9b",
+"assets/AssetManifest.json": "5417ac24e6b0966d6f0f8eb11ad74559",
 "assets/NOTICES": "ee86bbff8738398e6adee89b1a41a7fd",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
@@ -23,6 +23,8 @@ const RESOURCES = {
 "assets/assets/background/transportation-logistics.jpg": "34f99df526c46d057ead7e9b7c30ed81",
 "assets/assets/products/cotton.jpg": "6773f83c9e0940cb1a85e97112a98106",
 "assets/assets/products/animal_feed.jpg": "dbf867f30123d210a7d462e38550f73e",
+"assets/assets/logos/savana_logo.png": "f79a4a0536276b3a4f2528e8f13e5797",
+"assets/assets/logos/moawia_elberier_logo.png": "9f9fd155892205eab29367812ed39864",
 "assets/assets/lottie/lf30_editor_qfufwfb3.json": "72c7eb9c627ed4d0f38199144366bffd",
 "assets/assets/lottie/ship_greyBlue.json": "c9e39e5446d7e2a0e416cee05aad92a9"
 };
